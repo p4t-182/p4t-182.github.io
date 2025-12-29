@@ -1,4 +1,7 @@
 title: Hackerman Log
-description: Terminal records & field notes
-theme: jekyll-theme-hacker
+description: Terminal field notes
 
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/hacker@v0.2.0
