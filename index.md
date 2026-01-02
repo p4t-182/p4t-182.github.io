@@ -1,5 +1,5 @@
 ---
-layout: home
-title: Hackerman Log
+layout: default
+title: Test Blog
 ---
 
