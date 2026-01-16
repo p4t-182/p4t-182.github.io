@@ -3,8 +3,8 @@ description: This is a test for the  blog
 theme: minima
 
 header_pages:
-  - about.md
   - posts.md
 
 minima:
   skin: dark
+
