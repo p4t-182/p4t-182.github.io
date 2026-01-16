@@ -3,4 +3,14 @@ layout: default
 title: Test Blog
 ---
 
-<h1> Welcome! </h1>
+# Welcome
+
+This is my blog about security, CTFs, and experiments.
+
+## Recent Posts
+
+Check out my latest writeups and notes.
+
+- Reverse engineering
+- Network attacks
+- Malware analysis
