@@ -1,16 +1,8 @@
 ---
 layout: default
-title: Test Blog
+title: p4t-182's Blog
 ---
 
 # Welcome
 
-This is my blog about security, CTFs, and experiments.
-
-## Recent Posts
-
-Check out my latest writeups and notes.
-
-- Reverse engineering
-- Network attacks
-- Malware analysis
+I'm a computer science student with a strong passion for cybersecurity and programming. The purpose of this blog is learning about and sharing topics that I find interesting within these areas.

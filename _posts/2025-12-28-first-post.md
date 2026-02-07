@@ -1,5 +1,8 @@
 ---
 layout: post
-title: My Test Post
-date: 2025-12-28
+title: How does Tor work?
+date: 2026-02-03
 ---
+
+# Understanding Tor
+
