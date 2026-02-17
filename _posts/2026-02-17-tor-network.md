@@ -18,6 +18,11 @@ Tor, also known as the 'Onion Router', is a free, open-source network used for a
 
 I've always treated Tor as sort of a black box, however at a fundamental level it's fairly easy to understand and the subsequent sections of this page will be my attempt at breaking it down as simply as possible at a high level. 
 
+<br>
+
+
+
+
 
 ## Onion Routing
 
@@ -26,7 +31,7 @@ The fundamental mechanics of the Tor network are based on a concept called onion
 The Tor network uses this type of routing by utilizing a system of Tor relays. 
 
 
-
+<br>
 
 ## Hidden Services
 
@@ -41,6 +46,7 @@ The Tor network uses this type of routing by utilizing a system of Tor relays.
 
 
 
+<br> 
 
 ## Resources 
-- https://www.torproject.org/about/history/
+- [Tor History](https://www.torproject.org/about/history/)
