@@ -66,7 +66,7 @@ This is where things get a little more interesting. Tor also allows for the use 
 Accessing hidden services using Tor works differently from accessing normal HTTP/HTTPS websites using Tor. Firstly, hidden services generally have long, alphanumeric addresses that are 56 characters long, followed by ".onion". For example, a valid address might look like:
 
 
-```pg6mmjiyjmcrsslvykfwnntlaru7p5svn6y2ymmju6nubxndf4pscryd.onion```
+`pg6mmjiyjmcrsslvykfwnntlaru7p5svn6y2ymmju6nubxndf4pscryd.onion`
 
 
 When a client wants to access this service, they query a Tor hidden service directory (HSDir). This directory acts as a [distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table), which returns the queried address' descriptor. The descriptor contains the hidden service's public key and a list of what are called introduction points. You can think of the introduction point as a Tor relay that forwards connection requests from clients to a hidden service without revealing either party’s identity. 
@@ -84,6 +84,7 @@ Using the newly constructed circuit, the client can then send the rendezvous poi
 
 With this system, traffic is anonymized and remains encrypted end-to-end, as the traffic never leaves the Tor network.
 
+<br>
 
 
 ## Why is this important?
